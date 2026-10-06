@@ -1,0 +1,11 @@
+# Entorno virtual y caché de Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# Archivos de base de datos local y temporales
+*.db
+*.duckdb
+.DS_Store
